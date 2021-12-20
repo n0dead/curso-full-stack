@@ -1,0 +1,16 @@
+.verde {
+    color: rgb(23, 204, 23);
+    background-color: rgb(206, 206, 17);
+}
+.azul {
+    color: rgba(0, 0, 255, 0.904);
+    background-color: rgb(61, 214, 30);
+}
+.img    {
+    width: 50%;
+    height: auto;
+}
+.texto {
+    font-size: 1.5em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
